@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+<body bgcolor="lightblue">
+    <h2 style="color:purple;" align="center" font-color="purple">USER LOGIN FORM</h2>
+    
+    <h3 style="color:purple;"align="center"><u>ALREADY U HAVE AND ID "LOGIN" OTHERWISE "REGISTER"</u></h3>
+    <br>
+    <center>
+       <form action="">
+        <table>
+
+          <tr>
+          <td>USER ID:</td>
+          <td><input type="text" placeholder="Enter your ID" required></td>
+          <br>
+          <td></td>
+          <td></td>
+          </tr>
+
+          
+
+          <tr>
+
+          <td>PASSWORD</td>
+          <td><input type="number" placeholder="Enter your password" required></td>
+          <td></td>
+          <td></td>
+          
+          </tr>
+          
+
+
+     </table>
+
+    </form>
+       <br>
+       <br>
+       <a href="forms.html">HOME</a>
+       <button>Login</button>
+       <a href="file:///D:/forms.html">REGISTER</a>
+    
+   </center>     
+<p>
+
+   
+</p>
+</body>
+</html>
